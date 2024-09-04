@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PUNDREDDY PAVAN REDDY
 - 👀 I’m interested in Artificial Intelligence and Web Development
-- 🌱 I’m currently learning Web Developmengt
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
